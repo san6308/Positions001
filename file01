@@ -1,0 +1,7 @@
+import java.awt.*
+import java.lang.*
+
+public void static main(String args[])
+{
+ System.out.println("Value of tolksdd");
+ }
