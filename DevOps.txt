@@ -1,0 +1,134 @@
+Shell scripting ----------------------------01 days
+git & git hub -------vcs/scm---distributed--3 hours
+aws-----------------------------------------2 hours
+Jenkins ------------------------------------6 Hours
+java...tomact...war-----(local.host)--------
+Chef----------------configuration management--8 Hours
+ruby scripting
+databags
+workstation...server.....dk....resource
+knfie......databags
+nagios---------------------------------------2 hours
+
+
+
+New resource onboarding my team
+
+anumooken@gmail.com
+
+
+PaaS...IaaS ............SaaS
+
+VDI (Virtual machines)
+
+Private cloud  ............Public cloud
+
+52+ services
+
+https://aws.amazon.com/---28 Sesscion
+
+Admin + Shell Scripting + SDLC
+
+DevOps + AWS (Less)
+
+Delay delivery
+
+Dev + Operations
+
+Application (Servers) + (20 June)
+
+DevOps Practise Approach
+
+Extensioon Agile process
+
+SDLC : 
+
+Bank of America : Functionalities or requireemnt 
+
+Collection of Project team members (Dev , Tester ,Architects, Infrastructure or Operation)
+
+DevOps :
+
+Dev Collobration Operations :
+
+Operations = x server on July 29th 2018
+
+Delayed by 2 Weeks
+
+Second :
+
+In entier life cycle wherever we have manual process automate
+
+Third :
+
+Extension to agile 
+
+
+
+Developers---------(Java/.net/)-----
+
+
+
+
+Unix concepts--------------------------------------3 Hours
+Cygwin...VMWare Workstation
+VCS(SCM)
+SVN(CVCS)--Git Github(DVCS)------------------------5 Hours
+AWS -----------------------------------------------3 Hours
+(SaaS..PaaS..IaaS)
+Jenkins--------------------------------------------4 Hours
+Builds or release ..CI ...Master Slave Architecuture
+Chef (Confiuration nmanagment)----------------------6 hours
+Mastere Slave architecutre
+Knife 
+Dataababgs
+Nagios-----Server Monitoring
+Nxi log server------------------------------------2 Session
+
+Chef developed by Ruby language
+
+Opscode'
+
+Receipe and cookbook
+
+automate more of infrastructure items
+
+Ruby DSL language
+
+deploye and manage servers and applications in-houreor t
+
+
+domain-specific lanague
+
+Integration
+
+
+Master slave architccture
+
+Git ---VCS (SCM)---------------repoository---LEO
+Checkout
+CheckIn
+
+Platform Indenpendent--(Linux/wind/mac)
+
+To donwload
+
+https://git-scm.com/downloads
+
+Distrubued VCS
+
+3 tier architecture
+
+stagr local repo
+
+:wq!
+
+
+
+
+
+
+
+
+
+
